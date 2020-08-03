@@ -1,3 +1,4 @@
+Python Data Structures Project
 --------------------------------------------------------------------------
 Python Data Structures
 Project Guide and Source Code from Coursera:
@@ -9,7 +10,6 @@ Saif Hassan, Instructor at Sukkur IBA University,Sindh.
 Project done by:
 Madiha, Student of BSCS-III at Sukkur IBA University,Sindh.
 
-Dated: 03/08/2020
 --------------------------------------------------------------------------
 
 ---------------------------------------------------------[ DESCRIPTION ]--
