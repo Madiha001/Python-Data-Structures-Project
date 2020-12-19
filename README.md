@@ -30,13 +30,11 @@ Below are the files introduced in the course.
 
 ---------------------------------------------------------------[ SETUP ]-- 
 
-Download and install Python latest version by clicking on the link: https://www.python.org/downloads/ then download and extract this project separately in any drive or folder of your choice. Open CMD in current directory of that folder where you have extracted the project or press (SHIFT +right click) on the file quiz.py to run the file on Windows power shell. After opening CMD or power shell enter this command to run the project: python quiz.py or you can run it simply just by double clicking the file quiz.py 
+Download and install Python latest version by clicking on the link: https://www.python.org/downloads/ then download and extract this project separately in any drive or folder of your choice. Open CMD in current directory of that folder where you have extracted the project or press (SHIFT +right click) in the folder to open windows power shell. After opening CMD or power shell enter this command to run the project: 'python quiz.py' or you can run it simply just by double clicking the file quiz.py 
 
 After running it successfully, play around with the quiz.
 
-Feel free to use any IDE dedicated for python to compile and run your program.
-
-If you have any problem or need more help, google is your friend.
+If you have any query regarding this project or need any kind of help then you can ask in the comment box of my youtube project video, the link is provided below.
 
 --------------------------------------------------[ Youtube Video Link ]-- 
 
