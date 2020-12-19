@@ -13,16 +13,19 @@ Madiha, Student of BSCS-III at Sukkur IBA University,Sindh.
 
 --------------------------------------------------------------------------
 
----------------------------------------------------------[ DESCRIPTION ]--
+-------------------------------------------------------[ DESCRIPTION ]--
 
 This project will create the simple quiz application in which user will have a question and four multiple choices answers for that question. User will select any option of his or her choice and then output will show whether the selected option is correct or not. The files provided contained the source code, as well as the supporting data files to be
 used in the quiz project. Moreover, you will be creating one more file during the implementation of the project.
 
----------------------------------------------------------------[ FILES ]--
+----------------------------------------------------------------[ FILES ]--
 
 Below are the files introduced in the course. 
+
 1)quiz.py 
+
 2)Vocabulary_list.csv 
+
 3)Vocabulary_set.csv
 
 ---------------------------------------------------------------[ SETUP ]-- 
